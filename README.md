@@ -14,8 +14,8 @@ Use LiveServer plugin in VSCode to run the index.html on browser.
 Simply login using your credentials and sign into Metamask wallet so the dapp connects with the wallet at the same time.
 
 ## Capability 
-[x] Shows Transactions with time, block, amount, reciever's address, gas fees and total value.
-[x] Shows balance on MainNet and other TestNets like Ropsten, Rinkeby, Ganache etc.
-[x] NFTs currently owned by the User on its logged in Wallet
-[x] Can Send Ether to another Wallet.
-[ ] Mint NFT (yet to be done)
+- [x] Shows Transactions with time, block, amount, reciever's address, gas fees and total value.
+- [x] Shows balance on MainNet and other TestNets like Ropsten, Rinkeby, Ganache etc.
+- [x] NFTs currently owned by the User on its logged in Wallet
+- [x] Can Send Ether to another Wallet.
+- [ ] Mint NFT (yet to be done)
