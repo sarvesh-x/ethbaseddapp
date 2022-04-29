@@ -19,3 +19,6 @@ Simply login using your credentials and sign into Metamask wallet so the dapp co
 - [x] NFTs currently owned by the User on its logged in Wallet
 - [x] Can Send Ether to another Wallet.
 - [ ] Mint NFT (yet to be done)
+
+
+### Report issues if code broken.
