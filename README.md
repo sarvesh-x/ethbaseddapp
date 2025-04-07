@@ -6,8 +6,6 @@ This is a decentralized application (dApp) that integrates with the Ethereum blo
 
 You can run this dApp locally by following the instructions below.
 
----
-
 ## 🚀 Features
 
 - 🔐 **MetaMask Integration** – Authenticate using your MetaMask wallet.
@@ -20,7 +18,6 @@ You can run this dApp locally by following the instructions below.
   - Total value
 - 🖼️ **NFTs** – Display NFTs owned by the wallet (via Moralis).
 
----
 
 ## 🛠️ Tech Stack
 
@@ -58,6 +55,9 @@ ethbaseddapp/
 ├── assets/            # Icons and images
 ```
 ##
+
+---
+
 🧠 Notes
 - Make sure your MetaMask is connected to the correct network.
 - You may need a Moralis API key and app setup to fetch data successfully.
