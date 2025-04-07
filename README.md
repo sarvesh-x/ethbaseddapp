@@ -50,9 +50,7 @@ You can run this dApp locally by following the instructions below.
 
 ##
 📁 Project Structure
-bash
-Copy
-Edit
+
 ethbaseddapp/
 ├── index.html         # Main entry point
 ├── style.css          # Stylesheet
