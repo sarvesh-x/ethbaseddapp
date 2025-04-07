@@ -27,7 +27,7 @@ You can run this dApp locally by following the instructions below.
 
 ---
 
-## ⚙️ Installation & Setup
+ ⚙️ Installation & Setup
 
 1. **Clone the Repository**
    ```bash
@@ -54,8 +54,6 @@ ethbaseddapp/
 ├── main.js            # JavaScript logic
 ├── assets/            # Icons and images
 ```
-##
-
 ---
 
 🧠 Notes
