@@ -65,10 +65,10 @@ ethbaseddapp/
 
 ##
 🤝 Contributing
-Pull requests and contributions are welcome! Feel free to fork the project and improve it.
+  Pull requests and contributions are welcome! Feel free to fork the project and improve it.
 
 📜 License
-This project is open-source and available under the MIT License.
+  This project is open-source and available under the MIT License.
 
 🙌 Credits
-Built with ❤️ by sarvesh-x
+  Built with ❤️ by sarvesh-x
