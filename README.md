@@ -50,12 +50,13 @@ You can run this dApp locally by following the instructions below.
 
 ##
 📁 Project Structure
-
+```bash
 ethbaseddapp/
 ├── index.html         # Main entry point
 ├── style.css          # Stylesheet
 ├── main.js            # JavaScript logic
 ├── assets/            # Icons and images
+```
 ##
 🧠 Notes
 - Make sure your MetaMask is connected to the correct network.
